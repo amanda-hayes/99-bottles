@@ -196,7 +196,7 @@ Something like this:
 <hr>
 
 ### Submission Guidelines
-- Submit your homework via your github fork (to the remote fork) and please don't forget to fill out this [Google Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfUPnan89JtgRPEbK7GK2yXfUG18y5zzq3szuiXsQ6Md_Julw/viewform)!
+- Submit your homework via your github fork (to the remote fork) and don't forget to make an issue!
 
 <hr> 
 
